@@ -4,7 +4,7 @@ draft: false
 title: "Software Engineering Intern - Meta"
 jobTitle: "Software Engineering Intern"
 company: "Meta"
-location: "Palo Alto"
+location: "Menlo Park"
 duration: "Summer 2021"
 
 ---

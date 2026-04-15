@@ -10,4 +10,4 @@ duration: "Summer 2021"
 ---
 ### Systems Engineering Intern 📡
 
-Through my work in the Intellegence Community, I was able to conribute to the United States' fleet of intellgence satellites by supporting the program management of new spacecraft. In my role, I designed/tested network archietecture for sensitive military satellites by creating internal control docuemnts for the programs. Addiitonally, I breifed military generals and senior goernment leaders within the intellegence community.
+Through my role in the intellegence community, I contributed to the forefront of the United States' fleet of intellgence satellites — supporting warfighters and intellegence stakeholders in their missions abroad. In my role, I designed/tested network archietecture for military satellties and ground stations by creating internal control docuemnts for these programs. Addiitonally, I breifed military generals and senior government leaders within the intellegence community and toured development sites.
