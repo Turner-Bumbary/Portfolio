@@ -2,7 +2,7 @@
 date: 2021-06-01T00:00:00+01:00
 draft: false
 title: "Systems Engineering Intern"
-jobTitle: "Software Engineering Intern - NRO"
+jobTitle: "Systems Engineering Intern"
 company: "National Reconnaissance Office"
 location: "Washington DC"
 duration: "Summer 2021"

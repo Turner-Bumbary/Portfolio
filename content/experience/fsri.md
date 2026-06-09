@@ -1,7 +1,7 @@
 ---
 date: 2020-07-01T00:00:00+01:00
 draft: false
-title: "Summer Researcher - NASA"
+title: "Summer Researcher"
 jobTitle: "Summer Researcher"
 company: "NASA JPL"
 location: "Los Angeles"

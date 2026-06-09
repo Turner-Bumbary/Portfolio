@@ -1,7 +1,7 @@
 ---
 date: 2023-01-01T00:00:00+01:00
 draft: false
-title: "Systems Engineering Intern - NASA"
+title: "Systems Engineering Intern"
 jobTitle: "Systems Engineering Intern"
 company: "NASA JPL"
 location: "Los Angeles"

@@ -1,7 +1,7 @@
 ---
 date: 2020-06-01T00:00:00+01:00
 draft: false
-title: "Software Engineering Intern - Meta"
+title: "Software Engineering Intern"
 jobTitle: "Software Engineering Intern"
 company: "Meta"
 location: "Menlo Park"
