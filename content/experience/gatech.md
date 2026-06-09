@@ -1,14 +1,14 @@
 ---
-date: 2020-07-01T00:00:00+01:00
+date: 2024-08-01T00:00:00+01:00
 draft: false
-title: "Summer Research Program"
-jobTitle: "Summer Research Program"
-company: "MIT Lincoln Laboratory"
-location: "Boston"
-duration: "Summer 2024"
+title: "Graduate Researcher"
+jobTitle: "Graduate Researcher"
+company: "Georgia Tech"
+location: "Atlanta"
+duration: "Aug 2024 - Dec 2025"
 
 ---
-### Designing Space Launcher
+### Creating cUAS Systems
 
 As a Summer Researcher at MITLL, I led the feasibility study of a proposed space launch vehicle tasked with accelerating small spacecraft from rest to $300\text{ m/s}$. I performed high-level trade studies and modeling/simulation to determine the system's viability for orbital insertion  and enhancing rapid-response mission profiles.
 
