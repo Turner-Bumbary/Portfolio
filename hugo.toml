@@ -16,14 +16,16 @@ theme = "adritian-free-hugo-theme"
         name = 'About'
         URL = '#about'
         weight = 2
+      
+      # [[languages.en.menus.header]]
+      #   name = 'Portfolio'
+      #   URL = '#portfolio'
+      #   weight = 3
+      
       [[languages.en.menus.header]]
-        name = 'Portfolio'
-        URL = '#portfolio'
-        weight = 3
-      #  [[languages.en.menus.header]]
-      #  name = "Experience"
-      #  URL = "#experience"
-      #  weight = 4
+        name = "Experience"
+        URL = "#experience"
+        weight = 4
 
       # [[languages.en.menus.header]]
       #   name = "Blog"
@@ -40,15 +42,20 @@ theme = "adritian-free-hugo-theme"
         URL = "#about"
         weight = 2
 
+      # [[languages.en.menus.footer]]
+      #   name = "Portfolio"
+      #   URL = "#portfolio"
+      #   weight = 3
+
       [[languages.en.menus.footer]]
-        name = "Portfolio"
-        URL = "#portfolio"
-        weight = 3
+        name = "Experience"
+        URL = "#experience"
+        weight = 4
 
       [[languages.en.menus.footer]]
         name = "Contact"
         URL = "#contact"
-        weight = 4
+        weight = 6
 
 
   [languages.es]
