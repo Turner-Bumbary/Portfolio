@@ -8,3 +8,4 @@ params:
     logo:
       src: "images/companies/jpl.jpg"
       scale: 0.5
+---
