@@ -1,11 +1,11 @@
 ---
-date: 2021-06-01T00:00:00+01:00
+date: 2022-06-01T00:00:00+01:00
 draft: false
 title: "Systems Engineering Intern"
 jobTitle: "Systems Engineering Intern"
 company: "National Reconnaissance Office"
 location: "Washington DC"
-duration: "Summer 2021"
+duration: "Summer 2022"
 
 ---
 ### Systems Engineering Intern 📡
