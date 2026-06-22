@@ -7,6 +7,6 @@ link: "https://www.meta.com/"
 
 params:
   logo:
-      x: "images/companies/meta_modified.png"
-      _2x: "images/companies/meta_modified.png"
+      x: "images/companies/meta_inverted_modified.png"
+      _2x: "images/companies/meta_inverted_modified.png"
 ---
