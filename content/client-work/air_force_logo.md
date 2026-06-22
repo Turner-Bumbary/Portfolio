@@ -7,6 +7,6 @@ link: "https://www.af.mil/"
 
 params:
   logo:
-      x: "images/companies/air_Force.svg"
-      _2x: "images/companies/air_Force.svg"
+      x: "images/companies/air_force.png"
+      _2x: "images/companies/air_force.png"
 ---
