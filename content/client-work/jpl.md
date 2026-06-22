@@ -6,7 +6,7 @@ draft: false
 link: "https://www.jpl.nasa.gov/"
 
 params:
-    logo:
-      src: "images/companies/jpl.jpg"
-      scale: 0.5
+  logo:
+      x: "images/companies/jpl.jpg"
+      _2x: "images/companies/jpl.jpg"
 ---
