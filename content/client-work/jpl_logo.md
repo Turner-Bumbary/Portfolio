@@ -8,5 +8,5 @@ link: "https://www.jpl.nasa.gov/"
 params:
   logo:
       x: "images/companies/jpl_logo.webp"
-      _2x: "images/companies/jpl.webp"
+      _2x: "images/companies/jpl_logo.webp"
 ---
