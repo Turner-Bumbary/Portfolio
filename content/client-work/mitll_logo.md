@@ -7,6 +7,6 @@ link: "https://www.ll.mit.edu/"
 
 params:
   logo:
-      x: "images/companies/mitll.png"
-      _2x: "images/companies/mitll.png"
+      x: "images/companies/mitll_modified.png"
+      _2x: "images/companies/mitll_modified.png"
 ---
