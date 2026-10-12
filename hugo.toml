@@ -1,4 +1,5 @@
-baseURL = "https://turnerbumbary.github.io/Portfolio/"
+# baseURL = "https://turnerbumbary.github.io/Portfolio/"
+baseURL = "https://www.turnerbumbary.com"
 languageCode = "en"
 theme = "adritian-free-hugo-theme"
 
